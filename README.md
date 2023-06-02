@@ -2,3 +2,4 @@
 This Python program is the experimental software for a full classic working memory recognition experiment using the 2400 Unique Objects image data set from Tim Brady's Vision &amp; Memory Lab at UCSD.
 
 Data Available at: https://bradylab.ucsd.edu/stimuli.html
+Experiment fully designed by Amanda Sarubbi.
