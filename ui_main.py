@@ -4,7 +4,7 @@ Participant trial data is read into unique dataframes that are converted into CS
 new user-specified local directory. At the end of the trial, the user/experimenter can indicate whether
 they would like to calculate and locally save experiment trial metrics.
 
-- This script serves as the driver program for "experiment.py" and "experiment_results.py"
+- This script serves as the driver program for "experiment_backend.py" and "experiment_results.py"
 
 """
 #########################################################################
